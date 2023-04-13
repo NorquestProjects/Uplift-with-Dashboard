@@ -9,7 +9,7 @@ st.set_page_config(
 
 PAGES = {
     "Dashboard": dashboard,
-    "Classify Image": classifyPage
+    "Uplift": Uplift
 }
 
 st.sidebar.title("Deforgify")
